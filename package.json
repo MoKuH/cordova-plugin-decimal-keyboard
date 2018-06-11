@@ -1,0 +1,35 @@
+{
+  "name": "cordova-plugin-decimal-keyboard",
+  "version": "1.0.1",
+  "description": "Cordova Decimal Keyboard Plugin",
+  "cordova": {
+    "id": "cordova-plugin-decimal-keyboard",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrchandoo/cordova-plugin-decimal-keyboard.git"
+  },
+  "keywords": [
+    "cordova",
+    "keyboard",
+    "decimal keyboard",
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.2.0"
+    }
+  ],
+  "author": "mrchando",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/mrchandoo/cordova-plugin-decimal-keyboard/issues"
+  },
+  "homepage": "https://github.com/mrchandoo/cordova-plugin-decimal-keyboard#readme"
+}
+
